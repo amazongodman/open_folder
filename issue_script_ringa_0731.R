@@ -1,7 +1,5 @@
 
 
-setwd("C:\\Users\\ringa\\Desktop\\issue_creation_meetup_workshop2")
-
 library(tidyverse)
 
 
